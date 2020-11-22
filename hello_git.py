@@ -1,4 +1,4 @@
-def hello():
+def print_hello():
     return 'Hello Git'
 
-print(hello())
+print(print_hello())
